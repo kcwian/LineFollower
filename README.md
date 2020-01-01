@@ -27,11 +27,18 @@ $ avrdude -p atmega8 -c usbasp -U flash:w:main.hex:i -F -P usb
 ## Android App
 
 - Main screen:
-<br> <img src="https://github.com/kcwian/LineFollower/blob/master/imgs/app1.png" width="30%">
+ <p align="center">
+    <img src="https://github.com/kcwian/LineFollower/blob/master/imgs/app1.png" width="20%"> 
+ </p>
+
 - Configuration screen:
-<br> <img src="https://github.com/kcwian/LineFollower/blob/master/imgs/app2.png" width="30%">
+<p align="center">
+    <img src="https://github.com/kcwian/LineFollower/blob/master/imgs/app2.png" width="20%">
+</p>
 
 ## Robot
-<img src="https://github.com/kcwian/LineFollower/blob/master/imgs/linefollower.jpg" width="30%">
+<p align="center">
+    <img src="https://github.com/kcwian/LineFollower/blob/master/imgs/linefollower.jpg" width="40%">
+</p>
 
 ## Video
